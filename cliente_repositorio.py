@@ -1,4 +1,4 @@
-import MySQLdb, fabrica_conexao
+import fabrica_conexao
 
 class ClienteRepositorio():
     
